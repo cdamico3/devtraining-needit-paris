@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Create New">e63eeca3076070106623ffa08c1ed050</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Create New</label>
+        <location>top</location>
+        <name>Create New</name>
+        <order>10</order>
+        <parent>b5e6fb1f07ac30106623ffa08c1ed049</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 20:58:07</sys_created_on>
+        <sys_id>d206b86b076070106623ffa08c1ed000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d206b86b076070106623ffa08c1ed000</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 20:58:07</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d206b86b076070106623ffa08c1ed000"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>62f02a42dbd28f8460a6f0e5bf9619be</instance_id>
+        <instance_name>dev47152</instance_name>
+        <name>sys_sg_button_instance_d206b86b076070106623ffa08c1ed000</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Create New">e63eeca3076070106623ffa08c1ed050</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Create New</label><location>top</location><name>Create New</name><order>10</order><parent>b5e6fb1f07ac30106623ffa08c1ed049</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-10 20:58:07</sys_created_on><sys_id>d206b86b076070106623ffa08c1ed000</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_d206b86b076070106623ffa08c1ed000</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-10 20:58:07</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=d206b86b076070106623ffa08c1ed000"/></record_update>]]></payload>
+        <payload_hash>2068684254</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>bef0e4e6076030106623ffa08c1ed0b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 20:58:07</sys_created_on>
+        <sys_id>9e06b86b076070106623ffa08c1ed002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179f7b7ca030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 20:58:07</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>d606b86bc160701067e5cb9d23683502</update_guid>
+        <update_guid_history>d606b86bc160701067e5cb9d23683502:2068684254</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 21:05:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>27764c30510747b5999aeffae8848a29</sys_id>
+        <sys_metadata>d206b86b076070106623ffa08c1ed000</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_d206b86b076070106623ffa08c1ed000</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_d206b86b076070106623ffa08c1ed000">9e06b86b076070106623ffa08c1ed002</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 21:05:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
